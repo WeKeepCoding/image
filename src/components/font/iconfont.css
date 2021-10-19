@@ -1,0 +1,60 @@
+@font-face {
+  font-family: "JIconfont";
+  /* Project id 2878841 */
+  src: url('iconfont.woff2?t=1634646246156') format('woff2'),
+    url('iconfont.woff?t=1634646246156') format('woff'),
+    url('iconfont.ttf?t=1634646246156') format('truetype');
+}
+
+[class^="J-icon"],
+[class*="J-icon"] {
+  font-family: "JIconfont" !important;
+  font-size: 50px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.JIconfont {
+  font-family: "JIconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.J-icon-original:before {
+  content: "\e8c8";
+}
+
+.J-icon-refresh:before {
+  content: "\e6f0";
+}
+
+.J-icon-refreshf:before {
+  content: "\e715";
+}
+
+.J-icon-add:before {
+  content: "\e754";
+}
+
+.J-icon-min:before {
+  content: "\e844";
+}
+
+.J-icon-left:before {
+  content: "\e79e";
+}
+
+.J-icon-right:before {
+  content: "\e65a";
+}
+
+.J-icon-close:before {
+  content: "\e7ee";
+}
+
+.J-icon-full:before {
+  content: "\e641";
+}

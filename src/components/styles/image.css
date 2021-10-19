@@ -133,6 +133,10 @@
   justify-content: space-around
 }
 
+.J-image-viewer__actions__inner i {
+  font-size: 30px;
+}
+
 .J-image-viewer__next,
 .J-image-viewer__prev {
   top: 50%;

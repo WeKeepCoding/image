@@ -32,7 +32,6 @@
 </template>
 
 <script>
-import "../../styles/image.css";
 import ImageViewer from "./image-viewer";
 import { on, off, getScrollContainer, isInContainer } from "../../utils/dom";
 import { isString, isHtmlElement } from "../../utils/types";
